@@ -1,0 +1,36 @@
+# User Onboarding and Offboarding Workflow
+
+## Objective
+Ensure secure and compliant management of user access through standardized onboarding and offboarding procedures.
+
+## Governance Policies
+- Access must be approved by the relevant manager.
+- User accounts must comply with the organization's identity and access management policies.
+- User privileges should follow the principle of least privilege.
+
+## Onboarding Process
+1. **Request Submission**
+   - Manager submits a user access request via the designated ticketing system (e.g., ServiceNow).
+2. **Approval Workflow**
+   - Access request is reviewed and approved by the Security or IT Governance team.
+3. **Account Creation**
+   - IT/Admin creates user account in the relevant systems (e.g., Active Directory, cloud platforms).
+   - Assign appropriate roles/privileges based on the user's role.
+4. **Documentation & Audit Logging**
+   - Record the onboarding details in a centralized log (e.g., Confluence, a version-controlled document).
+   - Attach any approval documentation.
+5. **Notification**
+   - Notify the user of their account details and access guidelines.
+
+## Offboarding Process
+1. **Request Submission**
+   - Manager submits an offboarding request when the user leaves or changes roles.
+2. **Revocation & Deactivation**
+   - IT/Admin disables the user account.
+   - Revoke all associated access rights (email, VPN, cloud resources).
+3. **Data & Asset Retrieval**
+   - Collect any company assets or credentials.
+4. **Documentation & Audit Logging**
+   - Log the offboarding activity with date, reason, and reviewer.
+5. **Audit & Compliance Check**
+   - Ensure all steps are completed for compliance and audit purposes.
