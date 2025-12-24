@@ -136,17 +136,6 @@ Access the lab here: [Microsoft Defender for Cloud Apps (CASB) Lab](purview-lab/
 
 ---
 
-## 📚 About Microsoft Purview Custom SITs
-
-Microsoft Purview lets you define your own custom Sensitive Information Types (SITs) to detect proprietary, regulated, or internal data formats using:
-
-- Regular Expressions (Regex)
-- Keyword Lists
-- Supporting Elements (keywords or regex)
-- Confidence levels
-- Proximity tuning
----
-
 ## 🎓 Automation
 ## 🔄 AutoSys AppDynamics ServiceNow Integration Workflow
 
