@@ -136,16 +136,6 @@ Access the lab here: [Microsoft Defender for Cloud Apps (CASB) Lab](purview-lab/
 
 ---
 
-### 💼 Purview Regex Expressions & Custom Sensitive Information Types
-
-### 📘 Microsoft Purview Regex Expressions & Custom Sensitive Information Types
-
-This section provides curated and custom-built Regular Expressions (Regex) for use in **Microsoft Purview** Data Loss Prevention (DLP) and Information Protection policies.
-
-These patterns are used to define **Custom Sensitive Information Types (SITs)** that extend beyond the default Purview catalog and help address compliance with frameworks such as **NIST, HIPAA, PCI-DSS, GDPR**, and **ISO 27001**.
-
----
-
 ## 📚 About Microsoft Purview Custom SITs
 
 Microsoft Purview lets you define your own custom Sensitive Information Types (SITs) to detect proprietary, regulated, or internal data formats using:
