@@ -188,43 +188,6 @@ This unified workflow bridges **operations**, **security**, and **compliance** a
 - Microsoft 365 Compliance Portal
 - Microsoft Defender for Cloud Apps (CASB)
 
----
-
-## 🎓 Certifications & Trainings
-
-Here are the certifications I've earned (or am actively pursuing) to reinforce my GRC and cybersecurity expertise:
-
-| Certifications & Trainings | Status | Provider |
-|---------------|--------|----------|
-| ✅ CEH – Certified Ethical Hacker | Earned | EC-Council |
-| ✅ Security+ (CompTIA) | Earned | CompTIA |
-| ✅ AWS Certified Security – Specialty | Earned | AWS |
-| 🔄 CCSP – Certified Cloud Security Professional  | In Progress | ISC² / Cybrary / Udemy |
-| 🔄 CRISC – Certified in Risk and Information Systems Control | In Progress | ISACA / Cybrary / Udemy |
-| ✅ Microsoft Purview Information Security Administrator Course | Completed | Microsoft Learn / Cybrary / Udemy |
-| ✅ Microsoft Defender for Cloud Apps (CASB) Course | Completed | Microsoft Learn / Cybrary / Udemy |
-| ✅ Definitive GRC Analyst Master Class | Completed | Simply Cyber Academy |   
-| ✅ ServiceNow | Completed | ServiceNow Training | 
-| ✅ Qualys PC, PCI, VMD | Completed | Qualys Training | 
-
----
-
-## Learning Resources
-  
-✅ This portfolio is supported by a variety of training platforms, including:
-- ✅ [CRISC (ISACA Prep Material)](https://www.isaca.org/credentialing/credentialing-exam-prep)
-- ✅ [CCSP (ISC² Prep Material)](https://www.isc2.org/)
-- ✅ [Governance, Risk, and Compliance (Udemy)](https://www.udemy.com/)
-- ✅ [GRC for Banking, FinTech, and Insurance | GRC in Business (Udemy)](https://www.udemy.com/)
-- ✅ [Data Security in GDPR, CCPA, HIPAA, PCI-DSS & SOX (Privacy) (Udemy)](https://www.udemy.com/)
-- ✅ [Governance, Risk & Compliance Masterclass (Simply Cyber)](https://www.simplycyber.io/)
-- ✅ [Microsoft Defender Course(CASB) (Udemy)](https://www.udemy.com/)
-- ✅ [Microsoft Purview Information Security Administrator Course (Udemy)](https://www.cybrary.it/)
----
-## 🔗 Connect With Me
-- 📫 arthurmack@email.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/arthur-m-24a2a81ba/)
----
 
 
 
