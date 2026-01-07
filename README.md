@@ -130,7 +130,7 @@ Microsoft Defender for Cloud Apps (formerly known as Microsoft Defender for Clou
 
 - Hands-on exploration of Microsoft Defender Cloud Apps: Activity Logs
 
-![Defender Screenshot 1](./purview-lab/security_alerts.png)
+![Defender Screenshot 1](./purview-lab/purview-lab/security_alerts.png)
 
 Access the lab here: [Microsoft Defender for Cloud Apps (CASB) Lab](purview-lab/Microsoft_Defender_for_Cloud_Apps_CASB_Lab.md)
 
