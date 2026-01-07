@@ -120,7 +120,7 @@ Microsoft Defender for Cloud Apps (formerly known as Microsoft Defender for Clou
 
 ### 📸 Microsoft Defender for Cloud Apps (CASB) Lab Screenshots
 
-- Hands-on exploration of Microsoft Defender Cloud Apps: Discovery.
+- Hands-on exploration of Microsoft Defender Cloud Apps: Catalog
 
 ![Defender Screenshot 1](./purview-lab/cloud_discovery.png)
 
