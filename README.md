@@ -124,9 +124,13 @@ Microsoft Defender for Cloud Apps (formerly known as Microsoft Defender for Clou
 
 ![Defender Screenshot 1](./purview-lab/cloud_discovery.png)
 
-- Hands-on exploration of Microsoft Defender Cloud Apps: Create Policies.
+- Hands-on exploration of Microsoft Defender Cloud Apps: Create Policies
 
 ![Defender Screenshot 1](./purview-lab/create-policy-from-conditional-access-tab.png)
+
+- Hands-on exploration of Microsoft Defender Cloud Apps: Create Policies cont..
+
+![Defender Screenshot 1](./purview-lab/create-policy-from-conditional-access-tab2.png)
 
 - Hands-on exploration of Microsoft Defender Cloud Apps: Activity Log
 
